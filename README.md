@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Spore mod repositories can now be found [here](https://github.com/Liskomato/).
+
+
 <!--
 **Tenderi4/Tenderi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
